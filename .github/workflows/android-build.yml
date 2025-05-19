@@ -41,4 +41,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: production-release-aab
-          path: app/build/outputs/bundle/productionRelease/app-production-release.aab
+          path: presentation/build/outputs/bundle/productionRelease/presentation-production-release.aab
